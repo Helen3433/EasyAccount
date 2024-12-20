@@ -6,6 +6,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = "tally"
+rootProject.name = "EasyAccount"
 include(":app")
  

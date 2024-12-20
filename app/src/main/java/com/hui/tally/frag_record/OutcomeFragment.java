@@ -9,10 +9,7 @@ import java.util.List;
 /**
 
  */
-    public class OutcomeFragment extends BaseRecordFragment {
-
-
-
+public class OutcomeFragment extends BaseRecordFragment {
     //重写
     @Override
     public void loadDataToGV() {
